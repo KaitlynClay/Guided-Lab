@@ -6,4 +6,37 @@
     <string name="loginBtnText">Login</string>
     <string name="errMessageLogin">Invalid login. Please retry.</string>
     <string name="errMessagePassword">Invalid Password. Please retry.</string>
+    <string name="nameF">First Name</string>
+    <string name="nameL">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="DOB">Date of Birth</string>
+    <string-array name="listMonth">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string name="day">Day</string>
+    <string name="year">Year</string>
+    <string name="txtCert">Certificate</string>
+    <string name="twoYr">Associates Degree</string>
+    <string name="txtMajor">Major</string>
+    <string name="txtNext">Next</string>
+    <string-array name="listCert">
+        <item>Android Cerificate</item>
+        <item>iOS Mobile Certificate</item>
+    </string-array>
+    <string-array name="listMajor">
+        <item>Digital Media</item>
+        <item>Mobile Application and Development</item>
+        <item>Web Development</item>
+    </string-array>
 </resources>
