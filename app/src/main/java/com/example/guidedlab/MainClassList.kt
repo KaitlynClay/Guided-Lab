@@ -34,6 +34,8 @@ class MainClassList : AppCompatActivity() {
 
         firstName.requestFocus()
 
+        swDegreeCert.isChecked = false
+
         swDegreeCert.setOnCheckedChangeListener { buttonView, isChecked ->
             if (isChecked) {
                 spnDegree.visibility = View.VISIBLE

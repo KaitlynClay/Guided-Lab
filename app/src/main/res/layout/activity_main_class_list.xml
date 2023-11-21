@@ -154,6 +154,7 @@
         android:checked="true"
         android:textOff="@string/txtCert"
         android:textOn="@string/twoYr"
+        android:visibility="visible"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.612"
         app:layout_constraintStart_toStartOf="parent"
